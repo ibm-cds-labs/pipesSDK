@@ -1,5 +1,5 @@
 {
-  "name": "pipes_sdk",
+  "name": "pipes-sdk",
   "version": "0.1.0",
   "description": "SDK for simple data pipes tool",
   "main": "./lib",
