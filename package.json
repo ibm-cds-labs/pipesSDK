@@ -1,0 +1,32 @@
+{
+  "name": "pipesSDK",
+  "version": "0.1.0",
+  "description": "SDK for simple data pipes tool",
+  "main": "./lib",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibm-cds-labs/pipesSDK"
+  },
+  "keywords": [
+    "dataworks",
+    "Salesforce",
+    "stripe",
+    "dashDb",
+    "Cloudant",
+    "Data Movement"
+  ],
+  "dependencies": {
+    "async": "^1.2.1",
+    "bluemix-helper-config": "^0.1.5",
+    "cloudant": "^1.0.0",
+    "lodash": "~3.9.3",
+    "moment": "^2.10.3",
+    "nodejs-dataworks": "*",
+    "when": "~3.7.3"
+  },
+  "author": "david_taieb@us.ibm.com",
+  "license": "Apache-2.0",
+  "readmeFilename": "README.md"
+}
